@@ -5,10 +5,10 @@
 
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/vladislavkobyzev/">
-<img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="LinkedIn"/>
+<img src="https://cdn.icon-icons.com/icons2/2037/PNG/32/in_linked_linkedin_media_social_icon_124259.png" alt="LinkedIn"/>
 </a>
 <a href="https://t.me/vladkobyzev">
-<img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="Telegram"/>
+<img src="https://cdn.icon-icons.com/icons2/2429/PNG/32/telegram_logo_icon_147228.png" alt="Telegram"/>
 </a>
 </div>
 
