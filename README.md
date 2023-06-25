@@ -5,11 +5,11 @@
 
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/vladislavkobyzev/">
-<img src="https://img. shields. io/badge/LinkedIn-blue?style=for-the-
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-
 badge&Llogo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://t.me/vladkobyzev">
-<img src="https://img. shields. io/badge/Telegram-blue?style=for-the-
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-
 badge&Llogo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
