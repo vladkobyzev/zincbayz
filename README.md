@@ -5,12 +5,10 @@
 
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/vladislavkobyzev/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-
-badge&Llogo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://icon-icons.com/ru/значок/в-связанных-в-LinkedIn-СМИ-социальных/124259" alt="LinkedIn"/>
 </a>
 <a href="https://t.me/vladkobyzev">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-
-badge&Llogo=telegram&logoColor=white" alt="Telegram"/>
+<img src="https://icon-icons.com/ru/значок/телеграмма-логотип/147228" alt="Telegram"/>
 </a>
 </div>
 
